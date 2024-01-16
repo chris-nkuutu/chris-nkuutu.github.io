@@ -75,6 +75,12 @@ Kandidatexamen, Information & Communication Technology (ICT, jan 2012 - sep 2014
 - Fotboll, 
 - Dans & musik.
 
+## SPRÅK 
+- Engelska 
+- Svenska 
+- Luganda 
+- Swahili
+
 ## Kontakt & Adress
 Skogshöjdsvägen 8 43491
  Kungsbacka
