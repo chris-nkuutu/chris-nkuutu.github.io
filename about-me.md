@@ -1,0 +1,2 @@
+Jag är En positiv, ödmjuk, enkel och snabblärd person som arbetar lösningsfokuserat och med noggrannhet. Kollegor beskriver mig som en omtyckt medarbetare med hög arbetsmoral. Jag trivs i möten med människor och är en naturlig lagspelare samtidigt som jag även är självgående.
+Söker en möjlighet att använda min kunskap och mina färdigheter för att utvecklas inom IT branschen. Min passion är att använda teknik för att skapa enkla, säkra och effektiva lösningar åt människor både inom arbetslivet samt privat.
