@@ -2,7 +2,6 @@
 
 ![Chris Nkuutu](./chrisnkuutu.png)
 
-My Github pages site for testing actions
 
 ## Utbildning
 
@@ -47,20 +46,39 @@ Kandidatexamen, Information & Communication Technology (ICT, jan 2012 - sep 2014
 - Certificate in ICT (Informations communications technology) (Insieme si pou) ISP, Uganda, Kampala
         (apr 2011 - apr 2011 )
 -   Certificate costumer care and office practice skills Genrwot computer communication, Kampala/Uganda   
-            (sep 2010 - nov 2010 )
-
-- 
-###  Utbildning 
-
-### 
-
+            ( sep 2010 - nov 2010)
 ## Kompetenser
 
-## Kontakt
+- Apple iOS Windows 360 Windows Microsoft
+- ITIL Foundation 4 Html
+- SQL
+- Informationsystem och utveckling
+- Informations säkerhet CSS
+- Visual studio
+- Python
+- Javascript
 
--[Linkedin](in/chris-nkuutu)
+### Intressen
 
--[Github](https://github.com/chris-nkuutu)
+- Applikationsutveckling 
+- Design IT teknik
+- Lära mig nya trender i branschen. 
+- Fotboll, 
+- Dans & musik.
+
+## Kontakt & Adress
+Skogshöjdsvägen 8 43491
+ Kungsbacka
+
+## Telefonnummer
+0720204884
+
+## E-post
+nkuutugeorge@gmail.com
+
+- [Linkedin](in/chris-nkuutu)
+
+- [Github](https://github.com/chris-nkuutu)
 
 
 
