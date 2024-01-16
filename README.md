@@ -1,5 +1,14 @@
 # Chris Nkuutu
 
+Födelsedatum: 
+
+07-05-1991
+
+Körkort:
+
+B, A+B
+
+
 ![Chris Nkuutu](./chrisnkuutu.png)
 
 
