@@ -12,6 +12,7 @@ B, A+B
 ![Chris Nkuutu](./chrisnkuutu.png)
 
 
+
 ## Utbildning
 
 - Jensen YH
