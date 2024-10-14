@@ -67,7 +67,7 @@ header{
 
 
 }
-.home img{
+/*.home img{
     position: absolute;
     right: 100;
     top: 50%;
@@ -75,7 +75,7 @@ header{
     max-width: 300px;
     opacity: 0.8;
 
-}
+} */
 .content{
     max-width: 500px;
     color: #fff;
