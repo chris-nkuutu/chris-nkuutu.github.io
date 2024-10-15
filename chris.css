@@ -101,10 +101,25 @@ font-size: 3em;
     color: #fff;
     text-decoration: none;
     padding: 10px 40px;
-    background: #7d2ae8;
+    background: #7142af;
     border-radius: 10px;
     border: 2px solid #7d2ae8;
     font-weight: 500;
+    transition: .3s;
+}
+.btn-group a:hover:nth-child(1){
+    color: #7d2ae8;
+    background: transparent;
+
+
+}
+.btn-group a:hover:nth-child(3){
+    color: #7d2ae8;
+    background: transparent;
+    margin-left: 30px;
+    padding: 10px 30px;
+
+
 }
 .btn-group a:nth-child(2){
     color: #7d2ae8;
@@ -113,6 +128,18 @@ font-size: 3em;
     padding: 10px 30px;
 }
 .btn-group a:hover:nth-child(2){
-    color: #7d2ae8;
+    color: #fff;
+    background: #7d2ae8;
     padding: 10px 30px;
+}
+.social-icons{
+    position: absolute;
+    bottom: 50px;
+ 
+}
+.social-icons a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background: #7d2ae8;
 }
