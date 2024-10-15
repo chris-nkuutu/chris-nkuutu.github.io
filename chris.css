@@ -57,8 +57,7 @@ header{
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url(img/codioful-formerly-gradienta-bKESVqfxass-unsplash.jpg
-    );
+    background: url(img/codioful-formerly-gradienta-bKESVqfxass-unsplash.jpg);
     background-size: cover;
     background-position: center;
     display: right;
@@ -116,10 +115,7 @@ font-size: 3em;
 .btn-group a:hover:nth-child(3){
     color: #7d2ae8;
     background: transparent;
-    margin-left: 30px;
-    padding: 10px 30px;
-
-
+    
 }
 .btn-group a:nth-child(2){
     color: #7d2ae8;
