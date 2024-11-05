@@ -34,8 +34,7 @@ a {
 
 .navbar .logo{
     font-size: 2rem;
-    font-weight: 700
-    ;
+    font-weight: 700;
 }
 
 .navbar ul {
@@ -183,4 +182,5 @@ footer {
     font-size: 14px;
     font-weight: 500;
 }
+
 
