@@ -36,6 +36,12 @@ a {
     font-size: 2rem;
     font-weight: 700;
 }
+.navbar .toggle {
+    display: none; /* Hide toggle button by default */
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+}
 
 .navbar ul {
     display: flex;
@@ -68,6 +74,7 @@ a {
     height: 100vh;
     padding: 60px 9% 0;
     color: #fff;
+   
 }
 @media (max-width: 768px) {
     .navbar {
@@ -148,7 +155,7 @@ a {
 .home-img .img-box{
     
     width: 32vw;
-    height: 35vw;
+    height: 32vw;
     border-radius: 50%;
     overflow: hidden;
 }
@@ -169,6 +176,7 @@ a {
     object-fit: cover;
 }
 
+
 /* Optional: Styling for the footer */
 footer {
     position: fixed;
@@ -182,5 +190,31 @@ footer {
     font-size: 14px;
     font-weight: 500;
 }
+/* Responsive styles */
+@media (max-width: 320px) {
+    .navbar ul {
+        display: none; /* Hide by default */
+        flex-direction: column; /* Stack vertically */
+        position: absolute;
+        top: 60px; /* Position below the navbar */
+        left: 0;
+        right: 0;
+        background: #1f242d; /* Match background color */
+        padding: 10px 0; /* Add padding for the menu */
+    }
+
+    .navbar ul.show {
+        display: flex; /* Show when toggled */
+    }
+
+    .navbar .toggle {
+        display: block; /* Show toggle button on small screens */
+    }
+    .navbar ul li {
+        margin-left: 0; /* Remove margin for vertical stacking */
+        text-align: center; /* Center align links */
+    }
+}
+
 
 

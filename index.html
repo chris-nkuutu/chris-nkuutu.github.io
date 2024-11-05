@@ -13,6 +13,11 @@
     <nav class="navbar">
         
         <a href="index.html" class="logo"><span>C</span>>>N</a>
+
+        
+        <div class="toggle">☰</div> <!-- Hamburger icon -->
+    
+        
         <ul>
             <li class="active"><a href="index.html">Home</a></li>
             <li><a href="projects.html">Projects</a></li>
@@ -66,5 +71,13 @@
             <p>&copy; 2024 Chris Nkuutu Portifolio</p>
         </footer>
     </div>
+    <script>
+        const toggle = document.querySelector('.toggle');
+        const navList = document.querySelector('.navbar ul');
+
+        toggle.addEventListener('click', () => {
+            navList.classList.toggle('show');
+        });
+    </script>
 </body>
 </html>
