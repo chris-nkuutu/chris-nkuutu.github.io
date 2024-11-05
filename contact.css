@@ -1,0 +1,40 @@
+section {
+    padding: 200px;
+    max-width: 900px;
+    margin: auto;
+    background-color: rgb(238, 238, 238);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+section h2 {
+    font-size: 35px;
+    color: black;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+section address, section p {
+    font-size: 18px;
+    color: black;
+    margin: 8px 0;
+    line-height: 1.5;
+    text-align: center;
+}
+
+section a {
+    color: #0073e6;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+section a:hover {
+    color: #005bb5;
+    text-decoration: underline;
+}
+
+/* Additional styling for layout */
+section p a {
+    font-weight: bold;
+}
