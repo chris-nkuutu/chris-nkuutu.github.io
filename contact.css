@@ -38,3 +38,11 @@ section a:hover {
 section p a {
     font-weight: bold;
 }
+.navbar ul {
+    display: flex;
+    gap: 2rem;
+    
+    
+   
+}
+
