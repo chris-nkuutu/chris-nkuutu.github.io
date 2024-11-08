@@ -155,8 +155,8 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 32vw;
-    height: 32vw;
+    width: 40vw;
+    height: 40vw;
     border-radius: 50%;
     overflow: hidden;
     position: relative; /* Needed for absolute positioning of children */
@@ -174,7 +174,7 @@ a {
 }
 
 .home-img .img-box .img-item img {
-    width: 40%;
+    width: 50%;
     height: auto;
     object-fit: cover;
 }
